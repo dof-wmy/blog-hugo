@@ -6,6 +6,10 @@
 
 `hugo new posts/index.md`
 
-## Start Hugo Server
+## Start the Hugo server
 
 `hugo server -D`
+
+## Build static pages
+
+`hugo gen -D`
