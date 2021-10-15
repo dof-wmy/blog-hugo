@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>http://mengyang1229.github.io/blog-hugo/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 15 Oct 2021 10:08:24 +0800</lastBuildDate><atom:link href="http://mengyang1229.github.io/blog-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proxy</title>
+      <link>http://mengyang1229.github.io/blog-hugo/posts/nginx/proxy/</link>
+      <pubDate>Fri, 15 Oct 2021 10:08:24 +0800</pubDate>
+      
+      <guid>http://mengyang1229.github.io/blog-hugo/posts/nginx/proxy/</guid>
+      <description>Nginx 常用配置 - 代理和负载均衡</description>
+    </item>
+    
+    <item>
+      <title>Laravel 广播系统</title>
+      <link>http://mengyang1229.github.io/blog-hugo/posts/php/laravel-broadcasting/</link>
+      <pubDate>Wed, 13 Oct 2021 06:14:14 +0000</pubDate>
+      
+      <guid>http://mengyang1229.github.io/blog-hugo/posts/php/laravel-broadcasting/</guid>
+      <description>Laravel 广播系统前后端解决方案</description>
+    </item>
+    
+    <item>
+      <title>Carbon</title>
+      <link>http://mengyang1229.github.io/blog-hugo/posts/php/carbon/</link>
+      <pubDate>Wed, 13 Oct 2021 03:27:32 +0000</pubDate>
+      
+      <guid>http://mengyang1229.github.io/blog-hugo/posts/php/carbon/</guid>
+      <description>Carbon 库使用须知</description>
+    </item>
+    
+  </channel>
+</rss>
