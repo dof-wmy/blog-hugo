@@ -1,0 +1,16 @@
+baseURL: 'http://mengyang1229.github.io/'
+languageCode: 'zh-CN'
+title: 'Blog'
+theme: "ananke"
+menu:
+  main:
+  - identifier: php
+    name: PHP
+    pre: "<i class='fa fa-heart'></i>"
+    url: '/posts/php/'
+    # The weight will be used for sorting
+    weight: 1
+  - identifier: nginx
+    name: Nginx
+    url: '/posts/nginx/'
+    weight: 10
