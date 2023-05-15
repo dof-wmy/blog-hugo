@@ -1,6 +1,6 @@
-baseURL: 'http://mengyang1229.github.io/blog-hugo/'
+baseURL: 'http://mengyang1229.github.io'
 languageCode: 'zh-CN'
-title: 'Blog'
+title: 'WMY'
 theme: "ananke"
 menu:
   main:

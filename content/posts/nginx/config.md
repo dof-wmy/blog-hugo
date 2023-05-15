@@ -1,5 +1,5 @@
 ---
-title: "Proxy"
+title: "Nginx 常用配置"
 date: 2021-10-15T10:08:24+08:00
 summary: "Nginx 常用配置 - 代理和负载均衡"
 draft: false
